@@ -18,6 +18,7 @@ Descriptive statistics such as mean, median, and total sales were calculated.Gra
  The analysis helped identify high-performing products and revenue trends.
 
 Conclusion
+
 The sales dataset analysis provides insights into business performance. It helps in making better decisions regarding pricing and inventory.
  Overall, the study supports improving sales strategy and profitability.
 
